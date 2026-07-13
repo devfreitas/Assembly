@@ -25,3 +25,5 @@ Bom para resumir, eu pedi a saída do meu código para a IA, e eu acho que funci
 - Como funciona ?
   
 **Nem sei se realmente funciona como deveria**
+
+> wtf am i doing with my life?
