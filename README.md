@@ -12,7 +12,7 @@ Pois bem, não sei o que deu em mim, mas eu fiz uma soma de dois números em Ass
 
 - Como faz isso rodar ?
   
-**Essa é muita fácil, pergunte algo mais difícil**
+**Ah.. mas essa é muita fácil, pergunte algo mais difícil!**
   
 Foram alguns dias trancado no quarto lendo um monte de coisa que eu não entendi, para no final pedir ajuda para IA, e continuar sem entender muito bem.
 
