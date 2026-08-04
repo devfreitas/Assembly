@@ -18,12 +18,12 @@ Foram alguns dias trancado no quarto lendo um monte de coisa que eu não entendi
 
 ## Como eu fiz então ?
 
-Bom eu fiz aquelas perguntas básica para IA, como peço a entreda de input em Assembly, etc.
-Ai eu tentei... TENTEI, fazer rodar. Tem que intalar um tal de NASM aí.
-Bom para resumir, eu pedi a saída do meu código para a IA, e eu acho que funcionou, por isso:
+Bom eu fiz aquelas perguntas básica para IA, como peço a entrada de input em Assembly, etc.
+Ai eu tentei... TENTEI, fazer rodar. Tem que intalar um tal de NASM aí...
+Bom para resumir:
 
 - Como funciona ?
   
 **Nem sei se realmente funciona como deveria**
 
-> wtf am i doing with my life?
+> Um dia, se eu enlouquecer novamente. Volto aqui e tento entender como isso realmente funciona!
