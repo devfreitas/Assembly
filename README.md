@@ -1,6 +1,8 @@
 # Somando números
-Pois bem, não sei o que deu em mim, mas eu fiz uma soma de dois números em Assembly!
-É literalmente a leitura de 2 números de 0 - 9, e a soma deles
+Pois bem, não sei o que deu em mim, mas eu fiz uma soma de dois números em Assembly! 
+> Não exatamente...
+
+É literalmente a leitura de 2 números de 0 - 9, e a soma deles (mas a somatória tem que ser menor que dois números, se for maior quebra)
 
 - Como você fez ?
   
@@ -12,14 +14,12 @@ Pois bem, não sei o que deu em mim, mas eu fiz uma soma de dois números em Ass
 
 - Como faz isso rodar ?
   
-**Ah.. mas essa é muita fácil, pergunte algo mais difícil!**
+**Ah.. mas essa é muita fácil, faz uma mais difícil!**
   
-Foram alguns dias trancado no quarto lendo um monte de coisa que eu não entendi, para no final pedir ajuda para IA, e continuar sem entender muito bem.
-
 ## Como eu fiz então ?
-
+Foram alguns dias trancado no quarto lendo um monte de coisa que eu não entendi, e continuar sem entender muito bem.
 Bom eu fiz aquelas perguntas básica para IA, como peço a entrada de input em Assembly, etc.
-Ai eu tentei... TENTEI, fazer rodar. Tem que intalar um tal de NASM aí...
+Ai eu tentei... TENTEI, fazer rodar. Tem que instalar um tal de `NASM` aí...
 Bom para resumir:
 
 - Como funciona ?
